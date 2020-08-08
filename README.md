@@ -15,7 +15,7 @@
 ![](https://github.com/ClumsyClover/cloverbot/blob/master/demoimages/demo2.png)
 ## Some commands that can come in handy
 ### 1)'$$ loadfromurl-[last part of a wikipedia url]'
-### ---- Directly scrapes data from a given url. Enter ONLY the last part of a url, for ex. https://en.wikipedia.org/wiki/Barack_Obama
+### ---- Directly scrapes data from a given url. Enter ONLY the last part of a url, for ex. 'Barack_Obama' in https://en.wikipedia.org/wiki/Barack_Obama
 ### 2) '$$ unloaddata'
 ### ---- Unloads the currently requested data (completely), query and makes the bot ask you for new query.
 ### 3) '$$ unloaddatabacktolist'
