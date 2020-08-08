@@ -1,12 +1,22 @@
-# Cloverbot
-A bot that runs nltk and an express server.
+# WikiScraperBot
 
-## Steps to run:-
-1) Download the files.
-2) Traverse to the directory and type in the command, "npm start".
-3) All the necessary files will be hosted on "localhost:8080", go to the address "localhost:8080" on your web browser and you're good to go.
+### This is a bot made using beautifulsoup.py, wikipedia pacakage for python, NLTK and some pacakages from sklearn.
 
-## Things you'll need to run:-
-1) npm (Node pacakage manager)
-2) python
-3) nltk python library
+## Things you'll need to install:-
+### 1) Node.js
+### 2) Python
+
+## Things that can be done with this bot:-
+### 1) Search for any topics avaliable on wikipedia.
+### 2) Get relevant answers for any questions regarding any topics avaliable on Wikipedia.
+![]() // for images
+## Demo images:-
+![](https://github.com/ClumsyClover/cloverbot/blob/master/demoimages/demo1.png)
+![](https://github.com/ClumsyClover/cloverbot/blob/master/demoimages/demo2.png)
+## Some commands that can come in handy
+### 1)'$$ loadfromurl-[last part of a wikipedia url]'
+### ---- Directly scrapes data from a given url. Enter ONLY the last part of a url, for ex. https://en.wikipedia.org/wiki/Barack_Obama
+### 2) '$$ unloaddata'
+### ---- Unloads the currently requested data (completely), query and makes the bot ask you for new query.
+### 3) '$$ unloaddatabacktolist'
+### ---- Unloads only the currently requested data and returns to the point where the bot asks you to select one of the suggestions.
