@@ -9,7 +9,7 @@
 ## Things that can be done with this bot:-
 ### 1) Search for any topics avaliable on wikipedia.
 ### 2) Get relevant answers for any questions regarding any topics avaliable on Wikipedia.
-![]() // for images
+
 ## Demo images:-
 ![](https://github.com/ClumsyClover/cloverbot/blob/master/demoimages/demo1.png)
 ![](https://github.com/ClumsyClover/cloverbot/blob/master/demoimages/demo2.png)
